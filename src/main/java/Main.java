@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main
 {
-    static final int QTD_REGISTROS = 2;
+    static final int QTD_REGISTROS = 20;
     static final int IDADE_MINIMA = 21;
      
     public static void main(String[] args)
